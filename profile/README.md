@@ -1,10 +1,11 @@
+```text
 ██╗  ██╗██╗     ██╗   ██╗███╗   ██╗ █████╗ 
 ██║ ██╔╝██║     ╚██╗ ██╔╝████╗  ██║██╔══██╗
 █████╔╝ ██║      ╚████╔╝ ██╔██╗ ██║███████║
 ██╔═██╗ ██║       ╚██╔╝  ██║╚██╗██║██╔══██║
 ██║  ██╗███████╗   ██║   ██║ ╚████║██║  ██║
 ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═══╝╚═╝  ╚═╝
-
+```
 Klyna is built on a simple premise. Systems fail long before teams understand why.
 
 APIs have become the foundation of modern software. Every product depends on them. Every interaction flows through them. Yet once in production, their behavior becomes difficult to reason about. Signals exist, but they are scattered across tools and timelines. What teams get is data. What they lack is understanding.
